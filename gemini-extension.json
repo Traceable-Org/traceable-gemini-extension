@@ -1,0 +1,10 @@
+{
+  "name": "traceable",
+  "version": "5.1.0",
+  "description": "Draft requirements, controlled documents and trace links in Traceable, under your own permissions, with every change reviewed by a person.",
+  "mcpServers": {
+    "traceable": {
+      "httpUrl": "https://app.traceabledocs.com/api/mcp/mcp"
+    }
+  }
+}
