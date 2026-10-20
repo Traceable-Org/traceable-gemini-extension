@@ -12,6 +12,12 @@ This extension adds one remote MCP server, `https://app.traceabledocs.com/api/mc
 (streamable HTTP). There is nothing to build and no key to paste: Gemini CLI
 signs you in to Traceable with OAuth in your browser the first time it connects.
 
+> Google no longer serves Gemini CLI to personal Google accounts (it points
+> them to Antigravity). This extension is for Gemini CLI users on Gemini Code
+> Assist Standard or Enterprise, or with a paid Gemini API key. Antigravity users
+> add the server in Antigravity's MCP settings with `serverUrl` instead; see the
+> Traceable MCP manual.
+
 ## Install
 
 ```bash
